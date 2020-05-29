@@ -1,0 +1,22 @@
+{
+  "name": "monkeycode",
+  "version": "1.0.0",
+  "description": "monkeycode - Blog of a monkey hitting the keyboard",
+  "author": "WellBrained",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.10.3",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
